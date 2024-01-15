@@ -1,9 +1,8 @@
 ### Olá! Eu sou o Otávio Augusto 🖐
 
 - 🔭 Hoje trabalho como Desenvolvedor Web.
-- 🌱 Estudando Engeria de Software na Puc Minas
+- 🌱 Estudando Engenharia de Software na Puc Minas
 - 📫 Contate-me no email: otavio.augusto.magalhaes@gmail.com
-- 😄 Pronouns: ele
 
 ![Otávio GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviodev004&show_icons=true&theme=dracula&count_private=true)
 
